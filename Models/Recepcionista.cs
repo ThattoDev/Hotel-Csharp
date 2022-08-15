@@ -1,6 +1,10 @@
+using HotelCsharp.Interfaces;
+
 namespace HotelCsharp.Models
 {
-    public class Recepcionista : Pessoa
+    // o sinal ":" significa herança, que está herdando de outra classe
+    //o sinal "," significa implementando de uma interface.
+    public class Recepcionista : Pessoa, IRecepcionista
     {
          public Recepcionista() : base()
         {
@@ -12,9 +16,22 @@ namespace HotelCsharp.Models
 
         }
 
+        public void AtenderOTelefone()
+        {
+            Console.WriteLine("Atendo o telefone perfeitamente.");
+            Console.WriteLine();
+        }
+
+        public void FalarInglesBasico()
+        {
+            Console.WriteLine("Sei falar o ingês báscio.");
+            Console.WriteLine();
+        }
+
         public override void SeApresentar()
         {
-            throw new NotImplementedException();
+            Console.WriteLine("Prazer, sou a recepcionista: " + Nome);
+            Console.WriteLine();
         }
     }
 }

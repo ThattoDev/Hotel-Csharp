@@ -1,0 +1,15 @@
+C:\Users\thain\OneDrive\Área de Trabalho\Troços de Thatto gostosão\Curso-C#\HotelCsharp\bin\Debug\net6.0\HotelCsharp.exe
+C:\Users\thain\OneDrive\Área de Trabalho\Troços de Thatto gostosão\Curso-C#\HotelCsharp\bin\Debug\net6.0\HotelCsharp.deps.json
+C:\Users\thain\OneDrive\Área de Trabalho\Troços de Thatto gostosão\Curso-C#\HotelCsharp\bin\Debug\net6.0\HotelCsharp.runtimeconfig.json
+C:\Users\thain\OneDrive\Área de Trabalho\Troços de Thatto gostosão\Curso-C#\HotelCsharp\bin\Debug\net6.0\HotelCsharp.dll
+C:\Users\thain\OneDrive\Área de Trabalho\Troços de Thatto gostosão\Curso-C#\HotelCsharp\bin\Debug\net6.0\HotelCsharp.pdb
+C:\Users\thain\OneDrive\Área de Trabalho\Troços de Thatto gostosão\Curso-C#\HotelCsharp\obj\Debug\net6.0\HotelCsharp.csproj.AssemblyReference.cache
+C:\Users\thain\OneDrive\Área de Trabalho\Troços de Thatto gostosão\Curso-C#\HotelCsharp\obj\Debug\net6.0\HotelCsharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thain\OneDrive\Área de Trabalho\Troços de Thatto gostosão\Curso-C#\HotelCsharp\obj\Debug\net6.0\HotelCsharp.AssemblyInfoInputs.cache
+C:\Users\thain\OneDrive\Área de Trabalho\Troços de Thatto gostosão\Curso-C#\HotelCsharp\obj\Debug\net6.0\HotelCsharp.AssemblyInfo.cs
+C:\Users\thain\OneDrive\Área de Trabalho\Troços de Thatto gostosão\Curso-C#\HotelCsharp\obj\Debug\net6.0\HotelCsharp.csproj.CoreCompileInputs.cache
+C:\Users\thain\OneDrive\Área de Trabalho\Troços de Thatto gostosão\Curso-C#\HotelCsharp\obj\Debug\net6.0\HotelCsharp.dll
+C:\Users\thain\OneDrive\Área de Trabalho\Troços de Thatto gostosão\Curso-C#\HotelCsharp\obj\Debug\net6.0\refint\HotelCsharp.dll
+C:\Users\thain\OneDrive\Área de Trabalho\Troços de Thatto gostosão\Curso-C#\HotelCsharp\obj\Debug\net6.0\HotelCsharp.pdb
+C:\Users\thain\OneDrive\Área de Trabalho\Troços de Thatto gostosão\Curso-C#\HotelCsharp\obj\Debug\net6.0\HotelCsharp.genruntimeconfig.cache
+C:\Users\thain\OneDrive\Área de Trabalho\Troços de Thatto gostosão\Curso-C#\HotelCsharp\obj\Debug\net6.0\ref\HotelCsharp.dll
