@@ -1,6 +1,6 @@
 namespace HotelCsharp.Interfaces
 {
-    public interface IRecepcionista
+    public interface IRecepcionista : IPessoa
     {
         void AtenderOTelefone();
         void FalarInglesBasico();

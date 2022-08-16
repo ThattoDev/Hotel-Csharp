@@ -2,8 +2,8 @@ Requisitos para o sistema simples de hotelaria:
 
 *No hotel é preciso representar o cliente, o gerente, a camareira e a recepcionista. OK
 *Todas as entidades(models) do tipo pessoa tem que ter, nome, CPF, e telefone. OK
-*Toda Camareira tem que saber arrumar a cama e limpar o quarto.
-*Toda recepcionista tem que saber atender o telefone e falar o básico de inglês.
-*Todo gerente tem que saber tudo que a recepcionista e a camareira fazem.
+*Toda Camareira tem que saber arrumar a cama e limpar o quarto.OK
+*Toda recepcionista tem que saber atender o telefone e falar o básico de inglês. OK
+*Todo gerente tem que saber tudo que a recepcionista e a camareira fazem. OK
 *Deve ter uma entidade Hotel. 
 *Deve ser possível promover tanto a recepcionista quanto a camareira para o cargo de gerente.
